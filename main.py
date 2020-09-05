@@ -1,4 +1,5 @@
 #discord bot - first bot
+$ heroku buildpacks:set heroku/php
 import discord
 from discord.ext import commands
 import random
